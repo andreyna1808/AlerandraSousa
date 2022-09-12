@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background: #fff194;
+  color: #161513;
+  padding: 5px;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.textWaltDisney {
+  max-width: 320px;
+  font-weight: bold;
+}
+
+#textGreen {
+  color: green;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+a {
+  margin: 7px 0;
+  color: #161513;
+  text-decoration: none;
+  border-bottom: 2px solid green;
+  padding-bottom: 5px
+}
+
+.iconInstagram {
+  width: 30px;
+  height: 30px;
+}
+
+#linkInstagram {
+  border-bottom: none;
+  padding-bottom: 5px
+}
